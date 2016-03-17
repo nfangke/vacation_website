@@ -1,0 +1,14 @@
+.container #a{
+  width: 1000px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.img2 {
+  max-width: 300px;
+}
+
+.row {
+  padding-top: 100px;
+  text-align: center;
+}
