@@ -1,0 +1,60 @@
+#sidebar {
+  background-color: #e8e8e8;
+  padding-top: 0px;
+
+
+}
+
+#content {
+
+}
+
+.row {
+min-height: 20px;
+
+}
+
+.background {
+
+}
+
+.color {
+  background-color: green;
+  min-height: 20px;
+}
+
+.color2 {
+  background-color: red;
+  min-height: 20px;
+}
+
+.nocolumn a{
+  list-style: none;
+  padding-left: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+ul .catheader {
+  padding-left:0px;
+  list-style: none;
+}
+
+#logo {
+  max-width: 50px;
+}
+
+.topnav {
+
+}
+
+.dividersidenav {
+  background-color: #222;
+  height: 1px;
+}
+
+.secondtab {
+float: left;
+}
